@@ -1,4 +1,5 @@
-wip !\
+stamp/button hoarde im working on,\
+flashing lights ahead\
 <img src="https://64.media.tumblr.com/0f7901b6b9a300b473170c6d2540d945/4ae708fa88fd6797-f0/s100x200/fae75ee9b3908c126269d1ba882c6eaae4230843.gifv">\
 \
 \
