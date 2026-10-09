@@ -11,12 +11,5 @@
 ⠀ ⠀⠀ ⠀
 ⠀ ⠀⠀ ⠀
 ⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
-⠀ ⠀⠀ ⠀
+
 <img src="https://github.com/user-attachments/assets/4cad0322-5c22-4be3-9047-91ab77731eda">⠀ ⠀
